@@ -1,0 +1,157 @@
+body{
+	background-image: url(cosmos.jpg);
+	color: white;
+}
+
+
+
+#big_title{
+background-color: black;
+	color: silver;
+	padding: 22px; /* Внутрішній відступ */
+	margin: 40px; /* Зовнішній відступи */
+	border: 7px solid gray;
+	border-radius: 100px; /* Регулювання заокруглення */
+	width: 90%; /* Ширина рамки. Може визначатися у пікселях і відсотках */
+	height: 40px; /* Висота рамки. Може визначатися у пікселях і відсотках */
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 40px;
+	font-weight: 900; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+#small_title{
+
+	color: silver;
+	padding: 22px; /* Внутрішній відступ */
+	margin: 40px; /* Зовнішній відступи */
+	margin-left: 545px;
+	border: 10px solid gray;
+	border-radius: 100px; /* Регулювання заокруглення */
+	width: 400px;
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 25px;
+	font-weight: 400; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+
+.title{
+	background-color: black;
+	color: silver;
+	padding: 20px; /* Внутрішній відступ */
+	margin: 40px; /* Зовнішній відступ */
+	margin-left: 250px;
+	border: 10px solid gray;
+	border-radius: 100px; /* Регулювання заокруглення */
+	width: 65%; /* Ширина рамки. Може визначатися у пікселях і відсотках */
+	height: 35px; /* Висота рамки. Може визначатися у пікселях і відсотках */
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 40px;
+	font-weight: 900; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+
+.description_left{
+	background-color: gray;
+	color: white;
+	padding: 20px; /* Внутрішній відступ */
+	margin: 100px; /* Зовнішній відступ */
+	margin-right: 370px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	border: 10px solid black;
+	border-radius: 100px; /* Регулювання заокруглення */
+	
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 19px;
+	font-weight: 400; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+
+.description_right{
+	background-color: gray;
+	color: white;
+	padding: 20px; /* Внутрішній відступ */
+	margin: 100px; /* Зовнішній відступ */
+	margin-left: 370px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	border: 10px solid black;
+	border-radius: 100px; /* Регулювання заокруглення */
+	
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 19px;
+	font-weight: 400; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+	
+}
+
+
+.description_left:hover {
+	border: 7px solid blue;
+}
+
+.description_right:hover {
+	border: 7px solid red;
+}
+
+
+footer{
+		
+	padding: 10px; /* Внутрішній відступ */
+	margin: 70px; /* Зовнішній відступ */
+	margin-top: 200px;
+	margin-right: 780px;
+	width: 210px;
+	height: 110px;
+	
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 25px;
+	font-weight: 400; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+
+.sidebar{
+	background-color: gray;
+	color: white;
+	padding: 10px; /* Внутрішній відступ */
+	padding-left: 20px;
+	margin: 100px; /* Зовнішній відступ */
+	margin-left: 820px;
+	border: 7px solid black;
+	border-radius: 100px; /* Регулювання заокруглення */
+	width: 510px;
+	height: 550px;
+	
+
+	text-align: center; /* Вирівнювання тексту: 
+	по центру, по лівий або правий бік */
+
+	font-size: 19px;
+	font-weight: 400; /* Жирність шрифта. За замовчуванням стоїть 400,
+	найбільшої жирності -- 900 */
+}
+
+
